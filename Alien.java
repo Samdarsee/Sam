@@ -17,6 +17,7 @@ public class Alien {
 	}
 	@Override
 	public String toString() {
+		System.out.println("abcd");
 		return "Alien [aid=" + aid + ", aname=" + aname + "]";
 	}
 	
